@@ -1,6 +1,6 @@
 /*
- * Enderstone
- * Copyright (C) 2014 Sander Gielisse and Fernando van Loenhout
+ * ControllableMinecraftEntities
+ * Copyright (C) 2014 Fernando van Loenhout
  *
  *     This program is free software: you can redistribute it and/or modify
  *     it under the terms of the GNU General Public License as published by
