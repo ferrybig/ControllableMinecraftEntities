@@ -61,10 +61,6 @@ public interface SimpleDirection {
 
     public SimpleDirection zero();
 
-    public boolean isInAABB(SimpleDirection min, SimpleDirection max);
-
-    public boolean isInSphere(SimpleDirection origin, double radius);
-
     public double getX();
 
     public int getBlockX();
